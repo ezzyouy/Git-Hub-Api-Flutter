@@ -13,4 +13,4 @@ for start the application you need just to run this command in your Terminal:
 ### 2- List of search
 ![](./cap/1.png)
 ### 3- Repository user
-![](./cap/1.png)
+![](./cap/2.png)
